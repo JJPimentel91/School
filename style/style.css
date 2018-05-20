@@ -1,0 +1,98 @@
+.font {
+  background-color: #3B653D;
+}
+
+.green {
+  color: #3B653D;
+}
+
+.nav {
+  color: white;
+  font-weight: bold;
+}
+
+.title-text {
+  font-family: 'Pangolin', cursive;
+}
+
+.nav-title {
+  font-weight: bold;
+  padding-right: 20px;
+}
+
+.letter {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#l {
+  animation-delay: 0.5s;
+  position: absolute;
+  left: 50px;
+  top: 70px;
+}
+
+#u {
+  animation-delay: 0.6s;
+  position: absolute;
+  left: 75px;
+  top: 70px;
+}
+
+#c {
+  animation-delay: 0.7s;
+  position: absolute;
+  left: 100px;
+  top: 70px;
+}
+
+#e {
+  animation-delay: 0.8s;
+  position: absolute;
+  left: 125px;
+  top: 70px;
+}
+
+#s {
+  animation-delay: 0.9s;
+  position: absolute;
+  left: 150px;
+  top: 70px;
+}
+
+#i {
+  animation-delay: 1s;
+  position: absolute;
+  left: 175px;
+  top: 70px;
+}
+
+#t {
+  animation-delay: 1.1s;
+  position: absolute;
+  left: 190px;
+  top: 70px;
+}
+
+#a {
+  animation-delay: 1.2s;
+  position: absolute;
+  left: 215px;
+  top: 70px;
+}
+
+.pencil {
+  width: 135px;
+  left: 50px;
+  top: 0px;
+  margin-top: 76px;
+  margin-left: 70px;
+  -ms-transform: rotate(224deg); /* IE 9 */
+    -webkit-transform: rotate(224deg); /* Safari 3-8 */
+    transform: rotate(224deg);
+}
+
+.well {
+  margin-top: 50px;
+  margin-right: 5%;
+}
